@@ -1,1 +1,1 @@
-console.log('5050')
+console.log('5050');

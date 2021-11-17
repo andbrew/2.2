@@ -4,4 +4,4 @@ for(var i = 100; i >= 0; i--)
 		console.log(i);
 		oddCount++;
 	}
-console.log(oddCount + ' odds')
+console.log(oddCount + ' odds');
